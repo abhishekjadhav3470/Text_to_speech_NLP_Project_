@@ -2,6 +2,10 @@
 
 This is a simple web application for converting text into speech using the Google Text-to-Speech (gTTS) library and Flask.
 
+# Create a env with python 3.11 
+conda create -p venv python==3.11 -y
+conda activate venv/
+
 ## Features
 
 - Convert text into speech.
@@ -25,5 +29,4 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash or cmd
 git clone https://github.com/abhishekjadhav3470/Text_to_speech_NLP_Project_.git
-
-### Abhishek Jadhav             
+ 
